@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.boffum,
+.oneum{
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}
+.boffum{
+    background-color:black;
+    color:#ffffff;
+    font-weight:700
+}
+.oneum{
+    background-color:rgb(255, 225, 0)
+}
